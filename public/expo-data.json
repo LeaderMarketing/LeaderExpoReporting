@@ -1,0 +1,1522 @@
+{
+  "summary": {
+    "totalRecords": 8528,
+    "years": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "totalCompanies": 2816
+  },
+  "yearOverYear": [
+    {
+      "year": "2023",
+      "totalAttendees": 4309,
+      "uniqueCompanies": 1540,
+      "returningCompanies": 0,
+      "newCompanies": 1540
+    },
+    {
+      "year": "2024",
+      "totalAttendees": 2372,
+      "uniqueCompanies": 1253,
+      "returningCompanies": 542,
+      "newCompanies": 711
+    },
+    {
+      "year": "2025",
+      "totalAttendees": 2760,
+      "uniqueCompanies": 1393,
+      "returningCompanies": 828,
+      "newCompanies": 565
+    }
+  ],
+  "venueData": [
+    {
+      "year": "2023",
+      "venue": "Perth",
+      "attendees": 1011
+    },
+    {
+      "year": "2023",
+      "venue": "Sydney",
+      "attendees": 938
+    },
+    {
+      "year": "2023",
+      "venue": "Adelaide",
+      "attendees": 808
+    },
+    {
+      "year": "2023",
+      "venue": "Brisbane",
+      "attendees": 807
+    },
+    {
+      "year": "2023",
+      "venue": "Melbourne",
+      "attendees": 742
+    },
+    {
+      "year": "2023",
+      "venue": "Unknown",
+      "attendees": 3
+    },
+    {
+      "year": "2024",
+      "venue": "Perth",
+      "attendees": 544
+    },
+    {
+      "year": "2024",
+      "venue": "Brisbane",
+      "attendees": 465
+    },
+    {
+      "year": "2024",
+      "venue": "Melbourne",
+      "attendees": 463
+    },
+    {
+      "year": "2024",
+      "venue": "Adelaide",
+      "attendees": 460
+    },
+    {
+      "year": "2024",
+      "venue": "Sydney",
+      "attendees": 440
+    },
+    {
+      "year": "2025",
+      "venue": "Perth",
+      "attendees": 650
+    },
+    {
+      "year": "2025",
+      "venue": "Sydney",
+      "attendees": 561
+    },
+    {
+      "year": "2025",
+      "venue": "Brisbane",
+      "attendees": 531
+    },
+    {
+      "year": "2025",
+      "venue": "Adelaide",
+      "attendees": 517
+    },
+    {
+      "year": "2025",
+      "venue": "Melbourne",
+      "attendees": 501
+    }
+  ],
+  "venueComparison": [
+    {
+      "venue": "Adelaide",
+      "2023": 808,
+      "2024": 460,
+      "2025": 517
+    },
+    {
+      "venue": "Brisbane",
+      "2023": 807,
+      "2024": 465,
+      "2025": 531
+    },
+    {
+      "venue": "Melbourne",
+      "2023": 742,
+      "2024": 463,
+      "2025": 501
+    },
+    {
+      "venue": "Perth",
+      "2023": 1011,
+      "2024": 544,
+      "2025": 650
+    },
+    {
+      "venue": "Sydney",
+      "2023": 938,
+      "2024": 440,
+      "2025": 561
+    },
+    {
+      "venue": "Unknown",
+      "2023": 3
+    }
+  ],
+  "registrationTypes": [
+    {
+      "year": "2023",
+      "type": "Reseller",
+      "count": 3584,
+      "pct": 83.2
+    },
+    {
+      "year": "2023",
+      "type": "Vendor",
+      "count": 462,
+      "pct": 10.7
+    },
+    {
+      "year": "2023",
+      "type": "Staff",
+      "count": 261,
+      "pct": 6.1
+    },
+    {
+      "year": "2023",
+      "type": "Unknown",
+      "count": 2,
+      "pct": 0.0
+    },
+    {
+      "year": "2024",
+      "type": "Reseller",
+      "count": 2372,
+      "pct": 100.0
+    },
+    {
+      "year": "2025",
+      "type": "Reseller",
+      "count": 2760,
+      "pct": 100.0
+    }
+  ],
+  "repeatAttendance": [
+    {
+      "label": "1 Year Only",
+      "count": 1810
+    },
+    {
+      "label": "2 Years",
+      "count": 642
+    },
+    {
+      "label": "3 Years",
+      "count": 364
+    }
+  ],
+  "newVsReturning": [
+    {
+      "year": "2023",
+      "new": 1540,
+      "returning": 0,
+      "newPct": 100.0,
+      "returningPct": 0.0
+    },
+    {
+      "year": "2024",
+      "new": 711,
+      "returning": 542,
+      "newPct": 56.7,
+      "returningPct": 43.3
+    },
+    {
+      "year": "2025",
+      "new": 565,
+      "returning": 828,
+      "newPct": 40.6,
+      "returningPct": 59.4
+    }
+  ],
+  "amPerformance": [
+    {
+      "am": "115919",
+      "year": "2025",
+      "state": "",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Alan Tan",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 32,
+      "uniqueCompanies": 19,
+      "venues": [
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Alan Tan",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 2,
+      "uniqueCompanies": 2,
+      "venues": [
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Andoni Tsokos",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 80,
+      "uniqueCompanies": 42,
+      "venues": [
+        "Adelaide",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Andoni Tsokos",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 109,
+      "uniqueCompanies": 55,
+      "venues": [
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Andrew Nathan",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Andy Kris",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 114,
+      "uniqueCompanies": 60,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Andy Kris",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 174,
+      "uniqueCompanies": 80,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Andy Nguyen",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 72,
+      "uniqueCompanies": 34,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Andy Nguyen",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 83,
+      "uniqueCompanies": 44,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "BRONIT",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Benson Yin",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 48,
+      "uniqueCompanies": 29,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Benson Yin",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 78,
+      "uniqueCompanies": 36,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "COM113",
+      "year": "2025",
+      "state": "",
+      "registrations": 2,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Brisbane"
+      ]
+    },
+    {
+      "am": "Chris Eustace",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 73,
+      "uniqueCompanies": 39,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Chris Sutherland",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 75,
+      "uniqueCompanies": 40,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Chris Sutherland",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 2,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Brisbane"
+      ]
+    },
+    {
+      "am": "Cos Digi",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 70,
+      "uniqueCompanies": 42,
+      "venues": [
+        "Brisbane",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "David Litchfield",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 14,
+      "uniqueCompanies": 8,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "David Litchfield",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 17,
+      "uniqueCompanies": 8,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "David Sloss",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 80,
+      "uniqueCompanies": 39,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "David Sloss",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 103,
+      "uniqueCompanies": 55,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Grant Abbott",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 31,
+      "uniqueCompanies": 14,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Grant Abbott",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 18,
+      "uniqueCompanies": 8,
+      "venues": [
+        "Brisbane",
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Hanh Tran",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 5,
+      "uniqueCompanies": 4,
+      "venues": [
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Harish CK",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 65,
+      "uniqueCompanies": 40,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Harish CK",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 87,
+      "uniqueCompanies": 52,
+      "venues": [
+        "Adelaide",
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Jaimie Ianson",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 139,
+      "uniqueCompanies": 76,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Jaimie Ianson",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 108,
+      "uniqueCompanies": 62,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Jardi Conklin",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 68,
+      "uniqueCompanies": 37,
+      "venues": [
+        "Brisbane"
+      ]
+    },
+    {
+      "am": "Jardi Conklin",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 76,
+      "uniqueCompanies": 27,
+      "venues": [
+        "Adelaide",
+        "Brisbane"
+      ]
+    },
+    {
+      "am": "Kevin Zhang",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 73,
+      "uniqueCompanies": 43,
+      "venues": [
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Kevin Zhang",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 55,
+      "uniqueCompanies": 31,
+      "venues": [
+        "Adelaide",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Leong Chen",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 84,
+      "uniqueCompanies": 50,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Leong Chen",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 159,
+      "uniqueCompanies": 99,
+      "venues": [
+        "Adelaide",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "MJ Bantjes",
+      "year": "2024",
+      "state": "",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Mark Glickman",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 79,
+      "uniqueCompanies": 48,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mark Glickman",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 90,
+      "uniqueCompanies": 47,
+      "venues": [
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mark Marikkar",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 91,
+      "uniqueCompanies": 53,
+      "venues": [
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mark Marikkar",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 129,
+      "uniqueCompanies": 73,
+      "venues": [
+        "Brisbane",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mia Zhang",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 42,
+      "uniqueCompanies": 11,
+      "venues": [
+        "Adelaide",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mia Zhang",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 45,
+      "uniqueCompanies": 11,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Mike Chandran",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 113,
+      "uniqueCompanies": 56,
+      "venues": [
+        "Perth"
+      ]
+    },
+    {
+      "am": "Mike Chandran",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 145,
+      "uniqueCompanies": 64,
+      "venues": [
+        "Brisbane",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Nathan Puri",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 31,
+      "uniqueCompanies": 24,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Nathan Puri",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 70,
+      "uniqueCompanies": 35,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Noel Ennis",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 88,
+      "uniqueCompanies": 44,
+      "venues": [
+        "Adelaide",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Noel Ennis",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 102,
+      "uniqueCompanies": 53,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Paul Baskaran",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 18,
+      "uniqueCompanies": 13,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Paul Baskaran",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 2,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Paul Osborne",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 94,
+      "uniqueCompanies": 49,
+      "venues": [
+        "Perth"
+      ]
+    },
+    {
+      "am": "Paul Osborne",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 109,
+      "uniqueCompanies": 57,
+      "venues": [
+        "Brisbane",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Paul Yau",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 106,
+      "uniqueCompanies": 48,
+      "venues": [
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Paul Yau",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 134,
+      "uniqueCompanies": 48,
+      "venues": [
+        "Perth"
+      ]
+    },
+    {
+      "am": "Peter Eustace",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 110,
+      "uniqueCompanies": 47,
+      "venues": [
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Peter Eustace",
+      "year": "2025",
+      "state": "QLD",
+      "registrations": 100,
+      "uniqueCompanies": 53,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Peter Papaioannou",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 90,
+      "uniqueCompanies": 50,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Peter Papaioannou",
+      "year": "2025",
+      "state": "SA",
+      "registrations": 99,
+      "uniqueCompanies": 53,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Petko Petkov",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 4,
+      "uniqueCompanies": 2,
+      "venues": [
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Raymond Tia",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 82,
+      "uniqueCompanies": 50,
+      "venues": [
+        "Adelaide",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "am": "Raymond Tia",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 70,
+      "uniqueCompanies": 38,
+      "venues": [
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Raymond Wong",
+      "year": "2024",
+      "state": "WA",
+      "registrations": 93,
+      "uniqueCompanies": 46,
+      "venues": [
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Raymond Wong",
+      "year": "2025",
+      "state": "WA",
+      "registrations": 120,
+      "uniqueCompanies": 64,
+      "venues": [
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Robert Wu",
+      "year": "2024",
+      "state": "QLD",
+      "registrations": 10,
+      "uniqueCompanies": 4,
+      "venues": [
+        "Brisbane"
+      ]
+    },
+    {
+      "am": "SCOR-AW001",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Scott Shariffdeen",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 66,
+      "uniqueCompanies": 40,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Scott Shariffdeen",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 95,
+      "uniqueCompanies": 59,
+      "venues": [
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Sethu",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 1,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Sethu Perumalsamy",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 73,
+      "uniqueCompanies": 37,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Sethu Perumalsamy",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 113,
+      "uniqueCompanies": 51,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Theo Kristoris",
+      "year": "2024",
+      "state": "SA",
+      "registrations": 2,
+      "uniqueCompanies": 1,
+      "venues": [
+        "Melbourne"
+      ]
+    },
+    {
+      "am": "Tong Zheng",
+      "year": "2024",
+      "state": "NSW",
+      "registrations": 15,
+      "uniqueCompanies": 8,
+      "venues": [
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Tong Zheng",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 15,
+      "uniqueCompanies": 8,
+      "venues": [
+        "Brisbane",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "William Lam",
+      "year": "2025",
+      "state": "NSW",
+      "registrations": 16,
+      "uniqueCompanies": 12,
+      "venues": [
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Woody Leng",
+      "year": "2024",
+      "state": "VIC",
+      "registrations": 113,
+      "uniqueCompanies": 46,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth",
+        "Sydney"
+      ]
+    },
+    {
+      "am": "Woody Leng",
+      "year": "2025",
+      "state": "VIC",
+      "registrations": 83,
+      "uniqueCompanies": 32,
+      "venues": [
+        "Adelaide",
+        "Brisbane",
+        "Melbourne",
+        "Perth"
+      ]
+    }
+  ],
+  "amSummary": [
+    {
+      "am": "Andy Kris",
+      "state": "SA",
+      "totalRegistrations": 288,
+      "uniqueCompanies": 101,
+      "by2024": 114,
+      "by2025": 174,
+      "growth": 52.6
+    },
+    {
+      "am": "Mike Chandran",
+      "state": "WA",
+      "totalRegistrations": 258,
+      "uniqueCompanies": 93,
+      "by2024": 113,
+      "by2025": 145,
+      "growth": 28.3
+    },
+    {
+      "am": "Jaimie Ianson",
+      "state": "SA",
+      "totalRegistrations": 247,
+      "uniqueCompanies": 107,
+      "by2024": 139,
+      "by2025": 108,
+      "growth": -22.3
+    },
+    {
+      "am": "Leong Chen",
+      "state": "NSW",
+      "totalRegistrations": 243,
+      "uniqueCompanies": 128,
+      "by2024": 84,
+      "by2025": 159,
+      "growth": 89.3
+    },
+    {
+      "am": "Paul Yau",
+      "state": "WA",
+      "totalRegistrations": 240,
+      "uniqueCompanies": 66,
+      "by2024": 106,
+      "by2025": 134,
+      "growth": 26.4
+    },
+    {
+      "am": "Mark Marikkar",
+      "state": "QLD",
+      "totalRegistrations": 220,
+      "uniqueCompanies": 98,
+      "by2024": 91,
+      "by2025": 129,
+      "growth": 41.8
+    },
+    {
+      "am": "Raymond Wong",
+      "state": "WA",
+      "totalRegistrations": 213,
+      "uniqueCompanies": 77,
+      "by2024": 93,
+      "by2025": 120,
+      "growth": 29.0
+    },
+    {
+      "am": "Peter Eustace",
+      "state": "QLD",
+      "totalRegistrations": 210,
+      "uniqueCompanies": 72,
+      "by2024": 110,
+      "by2025": 100,
+      "growth": -9.1
+    },
+    {
+      "am": "Paul Osborne",
+      "state": "WA",
+      "totalRegistrations": 203,
+      "uniqueCompanies": 82,
+      "by2024": 94,
+      "by2025": 109,
+      "growth": 16.0
+    },
+    {
+      "am": "Woody Leng",
+      "state": "VIC",
+      "totalRegistrations": 196,
+      "uniqueCompanies": 58,
+      "by2024": 113,
+      "by2025": 83,
+      "growth": -26.5
+    },
+    {
+      "am": "Noel Ennis",
+      "state": "SA",
+      "totalRegistrations": 190,
+      "uniqueCompanies": 74,
+      "by2024": 88,
+      "by2025": 102,
+      "growth": 15.9
+    },
+    {
+      "am": "Andoni Tsokos",
+      "state": "WA",
+      "totalRegistrations": 189,
+      "uniqueCompanies": 75,
+      "by2024": 80,
+      "by2025": 109,
+      "growth": 36.2
+    },
+    {
+      "am": "Peter Papaioannou",
+      "state": "SA",
+      "totalRegistrations": 189,
+      "uniqueCompanies": 78,
+      "by2024": 90,
+      "by2025": 99,
+      "growth": 10.0
+    },
+    {
+      "am": "Sethu Perumalsamy",
+      "state": "NSW",
+      "totalRegistrations": 186,
+      "uniqueCompanies": 64,
+      "by2024": 73,
+      "by2025": 113,
+      "growth": 54.8
+    },
+    {
+      "am": "David Sloss",
+      "state": "NSW",
+      "totalRegistrations": 183,
+      "uniqueCompanies": 74,
+      "by2024": 80,
+      "by2025": 103,
+      "growth": 28.7
+    },
+    {
+      "am": "Mark Glickman",
+      "state": "VIC",
+      "totalRegistrations": 169,
+      "uniqueCompanies": 76,
+      "by2024": 79,
+      "by2025": 90,
+      "growth": 13.9
+    },
+    {
+      "am": "Scott Shariffdeen",
+      "state": "VIC",
+      "totalRegistrations": 161,
+      "uniqueCompanies": 87,
+      "by2024": 66,
+      "by2025": 95,
+      "growth": 43.9
+    },
+    {
+      "am": "Andy Nguyen",
+      "state": "SA",
+      "totalRegistrations": 155,
+      "uniqueCompanies": 55,
+      "by2024": 72,
+      "by2025": 83,
+      "growth": 15.3
+    },
+    {
+      "am": "Harish CK",
+      "state": "VIC",
+      "totalRegistrations": 152,
+      "uniqueCompanies": 72,
+      "by2024": 65,
+      "by2025": 87,
+      "growth": 33.8
+    },
+    {
+      "am": "Raymond Tia",
+      "state": "VIC",
+      "totalRegistrations": 152,
+      "uniqueCompanies": 74,
+      "by2024": 82,
+      "by2025": 70,
+      "growth": -14.6
+    },
+    {
+      "am": "Jardi Conklin",
+      "state": "QLD",
+      "totalRegistrations": 144,
+      "uniqueCompanies": 46,
+      "by2024": 68,
+      "by2025": 76,
+      "growth": 11.8
+    },
+    {
+      "am": "Kevin Zhang",
+      "state": "NSW",
+      "totalRegistrations": 128,
+      "uniqueCompanies": 58,
+      "by2024": 73,
+      "by2025": 55,
+      "growth": -24.7
+    },
+    {
+      "am": "Benson Yin",
+      "state": "QLD",
+      "totalRegistrations": 126,
+      "uniqueCompanies": 53,
+      "by2024": 48,
+      "by2025": 78,
+      "growth": 62.5
+    },
+    {
+      "am": "Nathan Puri",
+      "state": "NSW",
+      "totalRegistrations": 101,
+      "uniqueCompanies": 49,
+      "by2024": 31,
+      "by2025": 70,
+      "growth": 125.8
+    },
+    {
+      "am": "Mia Zhang",
+      "state": "VIC",
+      "totalRegistrations": 87,
+      "uniqueCompanies": 13,
+      "by2024": 42,
+      "by2025": 45,
+      "growth": 7.1
+    },
+    {
+      "am": "Chris Sutherland",
+      "state": "SA",
+      "totalRegistrations": 77,
+      "uniqueCompanies": 40,
+      "by2024": 75,
+      "by2025": 2,
+      "growth": -97.3
+    },
+    {
+      "am": "Chris Eustace",
+      "state": "QLD",
+      "totalRegistrations": 73,
+      "uniqueCompanies": 39,
+      "by2024": 0,
+      "by2025": 73,
+      "growth": null
+    },
+    {
+      "am": "Cos Digi",
+      "state": "NSW",
+      "totalRegistrations": 70,
+      "uniqueCompanies": 42,
+      "by2024": 70,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "Grant Abbott",
+      "state": "QLD",
+      "totalRegistrations": 49,
+      "uniqueCompanies": 20,
+      "by2024": 31,
+      "by2025": 18,
+      "growth": -41.9
+    },
+    {
+      "am": "Alan Tan",
+      "state": "WA",
+      "totalRegistrations": 34,
+      "uniqueCompanies": 20,
+      "by2024": 32,
+      "by2025": 2,
+      "growth": -93.8
+    },
+    {
+      "am": "David Litchfield",
+      "state": "NSW",
+      "totalRegistrations": 31,
+      "uniqueCompanies": 12,
+      "by2024": 14,
+      "by2025": 17,
+      "growth": 21.4
+    },
+    {
+      "am": "Tong Zheng",
+      "state": "NSW",
+      "totalRegistrations": 30,
+      "uniqueCompanies": 12,
+      "by2024": 15,
+      "by2025": 15,
+      "growth": 0.0
+    },
+    {
+      "am": "Paul Baskaran",
+      "state": "SA",
+      "totalRegistrations": 20,
+      "uniqueCompanies": 13,
+      "by2024": 18,
+      "by2025": 2,
+      "growth": -88.9
+    },
+    {
+      "am": "William Lam",
+      "state": "NSW",
+      "totalRegistrations": 16,
+      "uniqueCompanies": 12,
+      "by2024": 0,
+      "by2025": 16,
+      "growth": null
+    },
+    {
+      "am": "Robert Wu",
+      "state": "QLD",
+      "totalRegistrations": 10,
+      "uniqueCompanies": 4,
+      "by2024": 10,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "Hanh Tran",
+      "state": "SA",
+      "totalRegistrations": 5,
+      "uniqueCompanies": 4,
+      "by2024": 5,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "Petko Petkov",
+      "state": "SA",
+      "totalRegistrations": 4,
+      "uniqueCompanies": 2,
+      "by2024": 4,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "COM113",
+      "state": "",
+      "totalRegistrations": 2,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 2,
+      "growth": null
+    },
+    {
+      "am": "Theo Kristoris",
+      "state": "SA",
+      "totalRegistrations": 2,
+      "uniqueCompanies": 1,
+      "by2024": 2,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "115919",
+      "state": "",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 1,
+      "growth": null
+    },
+    {
+      "am": "Andrew Nathan",
+      "state": "SA",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 1,
+      "growth": null
+    },
+    {
+      "am": "BRONIT",
+      "state": "VIC",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 1,
+      "growth": null
+    },
+    {
+      "am": "MJ Bantjes",
+      "state": "",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 1,
+      "by2025": 0,
+      "growth": -100.0
+    },
+    {
+      "am": "SCOR-AW001",
+      "state": "NSW",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 1,
+      "growth": null
+    },
+    {
+      "am": "Sethu",
+      "state": "NSW",
+      "totalRegistrations": 1,
+      "uniqueCompanies": 1,
+      "by2024": 0,
+      "by2025": 1,
+      "growth": null
+    }
+  ]
+}
