@@ -1,6 +1,6 @@
 # Leader Expo Attendance Dashboard
 
-An interactive analytics dashboard that tracks and visualises attendee and company metrics from the Leader Expo conference series (2023–2025). Built for stakeholders who need quick insight into attendance trends, venue performance, customer retention, and account manager effectiveness.
+An interactive analytics dashboard that tracks and visualises attendee and company metrics from the Leader Expo conference series (2023–2025). Get Quick insight into attendance trends, venue performance, customer retention, and account manager effectiveness.
 
 **Live site:** [leadermarketing.github.io/LeaderExpoReporting](https://leadermarketing.github.io/LeaderExpoReporting/)
 
